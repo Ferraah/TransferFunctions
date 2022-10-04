@@ -1,0 +1,13 @@
+--2022-10-04 15:27:38--  https://www.google.com/url?sa=i
+Caricato certificato CA "/etc/ssl/certs/ca-certificates.crt"
+
+Risoluzione di www.google.com (www.google.com)... 142.250.180.132, 2a00:1450:4002:402::2004
+Connessione a www.google.com (www.google.com)|142.250.180.132|:443... connesso.
+Richiesta HTTP inviata, in attesa di risposta... 200 OK
+Lunghezza: non specificato [text/html]
+Salvataggio in: «url?sa=i»
+
+url?sa=i                [<=>                 ]       0  --.-KB/s               url?sa=i                [ <=>                ]   1,43K  --.-KB/s    in 0,002s  
+
+2022-10-04 15:27:39 (699 KB/s) - «url?sa=i» salvato [1465]
+
